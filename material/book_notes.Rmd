@@ -1,0 +1,43 @@
+---
+title: "Anotations"
+output: pdf_document
+---
+
+
+# Chapter 1
+
+## Terminology
+
+### HSM  
+Habitat Suitability Models
+
+### ENM 
+Ecological Niche Models
+
+### SDM 
+Species Distribution Models
+
+### HDM 
+Habitat Distribution Models
+
+### CEM 
+Climate-Envelope Models
+
+### RSF 
+Resource Selection Functions
+
+### NM 
+Niche Modelling (species niches)
+
+### DM 
+Distribution Modelling (species distribution)
+
+# Chapter 2
+
+Habitat Suitability Models ideally follows five steps:
+1. Conceptualization
+2. Data preparation
+3. Model calibration (fitting)
+4. Model evaluation
+5. Spatial predictions
+
